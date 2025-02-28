@@ -50,4 +50,4 @@ Version 7.2: choose parameters for run manually
    - testsets=N: choose number of queries (default value: 1000) 
    	-> make sure to have generated artificalKmer-file with this number of query k-mers prior
 
-(last updated: Fri., 22/07/29)
+(last updated: Fri., 22/07/22)
