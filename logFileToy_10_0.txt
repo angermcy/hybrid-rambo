@@ -1,0 +1,11 @@
+data/0/inflated/ERR490787.out 2165971
+data/0/inflated/ERR369019.out 1852543
+data/0/inflated/ERR406730.out 2024572
+data/0/inflated/ERR956439.out 2046941
+data/0/inflated/ERR226389.out 2058406
+data/0/inflated/ERR272179.out 4316759
+data/0/inflated/ERR751027.out 2114580
+data/0/inflated/SRR1655572.out 1561892
+data/0/inflated/ERR347548.out 4072235
+data/0/inflated/ERR964839.out 236425
+insertion time (sec) of 100 files: 225.09
